@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 3rem;
+}
+
+form {
+  margin-top: 2rem;
+}
+
+label {
+  font-size: 1.2rem;
+  margin-right: 1rem;
+}
+
+input[type="text"] {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: none;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+}
+
+#output-box {
+  margin-top: 2rem;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  font-size: 1.2rem;
+}
